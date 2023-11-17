@@ -25,7 +25,7 @@ This is a simple Arduino code designed to read temperature and humidity data fro
 
 ## Schematics
 
-- [Schematic PDF](https://github.com/Aadhav-VijayaSaravanan/Volt/blob/main/schematics.pdf)
+- [Schematic PDF](https://github.com/Aadhav-VijayaSaravanan/Volt/blob/main/schematics.png)
 
 
 ## Wiring
