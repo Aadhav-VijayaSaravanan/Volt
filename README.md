@@ -1,5 +1,16 @@
 # Volt
-## Readme Documentation
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Components Used](#components-used)
+- [Schematics](#schematics)
+- [Wiring](#wiring)
+- [Library Dependencies](#library-dependencies)
+- [Setup](#setup)
+- [Configuration](#configuration)
+- [Usage](#usage)
+- [Important Note](#important-note)
 
 ## Introduction
 
@@ -11,6 +22,10 @@ This is a simple Arduino code designed to read temperature and humidity data fro
 - DHT11 sensor
 - 16x2 LCD
 - Potentiometer for LCD contrast adjustment
+
+## Schematics
+
+- [Add your schematic PDF here](#)
 
 ## Wiring
 
@@ -52,5 +67,3 @@ This is a simple Arduino code designed to read temperature and humidity data fro
 ## Important Note
 
 Ensure that the libraries are correctly installed, and the wiring is accurate before uploading the code to the Arduino board. Additionally, double-check the datasheets of your components for any specific requirements.
-
-Feel free to modify the code to suit your specific needs or integrate it into a larger project.
