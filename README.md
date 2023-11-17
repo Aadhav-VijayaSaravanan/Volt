@@ -1,4 +1,5 @@
 # Volt
+**This Arduino program reads temperature and humidity from a DHT11 sensor, displays the values on a 16x2 LCD, and outputs them to the serial monitor.**
 
 ## Table of Contents
 
