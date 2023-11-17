@@ -25,7 +25,9 @@ This is a simple Arduino code designed to read temperature and humidity data fro
 
 ## Schematics
 
-- [Schematic PDF](file:///C:/Users/aadha/OneDrive/Documents/Dropbox/PC/Downloads/schematics.pdf)
+<object data="C:/Users/aadha/OneDrive/Documents/Dropbox/PC/Downloads/schematics.pdf" type="application/pdf" width="100%" height="600px">
+  <p>It appears you don't have a PDF plugin for this browser. You can <a href="C:/Users/aadha/OneDrive/Documents/Dropbox/PC/Downloads/schematics.pdf">click here to download the PDF file.</a></p>
+</object>
 
 ## Wiring
 
